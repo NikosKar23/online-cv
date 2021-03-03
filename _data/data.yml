@@ -59,9 +59,9 @@ skills:
     title: Skills &amp; Proficiency
     
     toolset:
-      - name: Python
-        #level: 98%
       - name: C
+        #level: 98%
+      - name: Python
         #level: 98%
       - name: Photo and Video Editing
         #level: 98%
@@ -69,3 +69,4 @@ skills:
       
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
