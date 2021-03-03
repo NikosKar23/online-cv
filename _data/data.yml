@@ -1,41 +1,31 @@
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
-
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-
     # Profile information
     name: Nikos Karatzas
     tagline: BSc Student
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     # Sidebar links
     github: NikosKar23
     email: p18kara2@ionio.gr
     #goodreads: # Number-Username, e.g. 123456-alandoe
-
     languages:
       - idiom: Greek
         level: Native
-
       - idiom: English
         level: Upper-Intermediate
-
       - idiom: German
         level: Upper-Intermediate
-
     interests:
       - item: Photography & Video
         link: https://www.youtube.com/channel/UCjqIKCTtnbOZRSk8b74Lzeg/videos
-
       - item: Music
         link:
-
       - item: Marketing
         link:
-
 career-profile:
     title: About me
     summary: |
@@ -52,19 +42,17 @@ projects:
         link: "http://tedxionianuniversity.com/"
         time: 2019 - Present
         tagline: "Supported the TEDx Ionian University as a photographer and video editor."
-
       - title: IEEE Ionian Student Branch
         #link: "#"
         time: 2020 - Present
         tagline: "Member of the Public Relations team"
 
 
-interestes:
-    title: Skills
+skills:
+    title: Skills &amp; Proficiency
+      - name: Python
       - name: Python
       - name: C
       - name: Photo & Video editing
-
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
