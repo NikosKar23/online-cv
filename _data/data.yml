@@ -61,16 +61,10 @@ projects:
 
 skills:
     title: Skills &amp; Proficiency
-
-    #toolset:
       - name: Python
-        #level: 98%
-
+      - name: Python
       - name: C
-        #level: 98%
-
       - name: Photo & Video editing
-        #level: 98%
 
 
 footer: >
