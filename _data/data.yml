@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: p18kara2@ionio.gr
     github: NikosKar23
+    email: p18kara2@ionio.gr
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -62,7 +62,7 @@ projects:
 skills:
     title: Skills &amp; Proficiency
 
-    toolset:
+    #toolset:
       - name: Python
         #level: 98%
 
