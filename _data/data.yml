@@ -4,14 +4,17 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    
     # Profile information
     name: Nikos Karatzas
     tagline: BSc Student
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
     # Sidebar links
     github: NikosKar23
     email: p18kara2@ionio.gr
     #goodreads: # Number-Username, e.g. 123456-alandoe
+    
     languages:
       - idiom: Greek
         level: Native
@@ -20,21 +23,25 @@ sidebar:
       - idiom: German
         level: Upper-Intermediate
     interests:
+    
       - item: Photography & Video
         link: https://www.youtube.com/channel/UCjqIKCTtnbOZRSk8b74Lzeg/videos
       - item: Music
         link:
       - item: Marketing
         link:
+        
 career-profile:
     title: About me
     summary: |
       I am a Bachelor student in the Ionian University in the island of Corfu studying Computer Science. 
       My interests are in Web Developing, Marketing, Photography and Nature. 
+      
 education:
     - degree: BCs in Computer Science
       university: Ionian University
       time: 2018 - Present
+      
 projects:
     title: Volunteering
     assignments:
@@ -50,12 +57,12 @@ projects:
 
 skills:
     title: Skills &amp; Proficiency
-       - name: Python
+    
+    toolset:
+      - name: Python
         #level: 98%
-
       - name: C
         #level: 98%
-
       - name: Photo and Video Editing
         #level: 98%
       
