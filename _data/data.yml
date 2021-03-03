@@ -59,9 +59,8 @@ projects:
         tagline: "Member of the Public Relations team"
 
 
-skills:
-    title: Skills &amp; Proficiency
-      - name: Python
+interestes:
+    title: Skills
       - name: Python
       - name: C
       - name: Photo & Video editing
