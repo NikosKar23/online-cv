@@ -16,9 +16,12 @@ sidebar:
        
     languages:
       - idiom: Greek
-        level: Intermediate
+        level: Native
 
       - idiom: English
+        level: Upper-Intermediate
+
+      - idiom: German
         level: Upper-Intermediate
 
     interests:
@@ -26,7 +29,7 @@ sidebar:
       - item: Photography & Video
         link: https://www.youtube.com/channel/UCjqIKCTtnbOZRSk8b74Lzeg/videos
      
-      - item: Dancing
+      - item: Music
         link:
 
       - item: Marketing
@@ -35,7 +38,7 @@ sidebar:
 career-profile:
     title: About me
     summary: |
-      I am a Master student in the Ionian University in the island of Corfu studying Computer Science. 
+      I am a Bachelor student in the Ionian University in the island of Corfu studying Computer Science. 
       My interests are in Web Developing, Marketing, Photography and Nature. 
       
 education:
