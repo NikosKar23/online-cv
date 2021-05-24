@@ -39,15 +39,20 @@ career-profile:
     title: About me
     summary: |
       I am a Bachelor student in the Ionian University in the island of Corfu studying Computer Science. 
-      My interests are in Web Developing, Marketing, Photography and Nature. 
+      My interests are in Web Developing, Marketing, Photography and Nature. I am a very cooperative person, 
+      as I have offered my help on two volunteering teams so far and many more for the university's assignments.
+      I always ensure my work to be efficient, clean and aesthetically decent.
       
 education:
     - degree: BCs in Computer Science
       university: Ionian University
       time: 2018 - Present
       
+      
+      
+      
 projects:
-    title: Volunteering
+    title: Volunteering & Projects
     assignments:
       - title: TEDx Ionian University
         link: "http://tedxionianuniversity.com/"
@@ -57,6 +62,11 @@ projects:
         #link: "#"
         time: 2020 - Present
         tagline: "Member of the Public Relations team"
+        
+        
+        
+        
+        
 
 
 skills:
@@ -64,11 +74,11 @@ skills:
     
     toolset:
       - name: C
-        #level: 98%
+        level: 75%
       - name: Python
-        #level: 98%
+        level: 40%
       - name: Photo and Video Editing
-        #level: 98%
+        level: 50%
       
       
 footer: >
